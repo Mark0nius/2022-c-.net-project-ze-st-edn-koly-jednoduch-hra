@@ -1,0 +1,10 @@
+H:\C# čtvrták\31_Jevický\31_Jevický\bin\Debug\13-Jevicky.exe.config
+H:\C# čtvrták\31_Jevický\31_Jevický\bin\Debug\13-Jevicky.exe
+H:\C# čtvrták\31_Jevický\31_Jevický\bin\Debug\13-Jevicky.pdb
+H:\C# čtvrták\31_Jevický\31_Jevický\obj\Debug\31_Jevický.csprojAssemblyReference.cache
+H:\C# čtvrták\31_Jevický\31_Jevický\obj\Debug\_31_Jevický.AppWindow.resources
+H:\C# čtvrták\31_Jevický\31_Jevický\obj\Debug\_31_Jevický.Properties.Resources.resources
+H:\C# čtvrták\31_Jevický\31_Jevický\obj\Debug\31_Jevický.csproj.GenerateResource.cache
+H:\C# čtvrták\31_Jevický\31_Jevický\obj\Debug\31_Jevický.csproj.CoreCompileInputs.cache
+H:\C# čtvrták\31_Jevický\31_Jevický\obj\Debug\13-Jevicky.exe
+H:\C# čtvrták\31_Jevický\31_Jevický\obj\Debug\13-Jevicky.pdb
